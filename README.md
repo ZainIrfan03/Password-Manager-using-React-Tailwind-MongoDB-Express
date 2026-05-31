@@ -10,13 +10,21 @@ The project follows a full-stack architecture with React for the frontend, Expre
 
 # ✨ Features
 ➕ Add new passwords
+
 👀 View saved credentials
+
 ✏️ Edit existing passwords
+
 🗑️ Delete passwords
+
 📋 Copy usernames and passwords with one click
+
 🔒 Secure data storage using MongoDB
+
 📱 Fully responsive design
+
 ⚡ Fast and modern user interface
+
 🎨 Styled with Tailwind CSS
 
 # 🎯 Learning Outcomes
@@ -24,16 +32,26 @@ The project follows a full-stack architecture with React for the frontend, Expre
 This project helped in understanding:
 
 Full-Stack MERN Development
+
 REST API Integration
+
 MongoDB CRUD Operations
+
 State Management in React
+
 Responsive UI Design
+
 Frontend and Backend Communication
 
 # 🔮 Future Improvements
 User Authentication
+
 Password Encryption
+
 Password Generator
+
 Search and Filter Functionality
+
 Dark Mode Support
+
 Cloud Deployment
